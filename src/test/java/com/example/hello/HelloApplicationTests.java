@@ -1,11 +1,9 @@
 package com.example.hello;
 
-import com.example.hello.Person.Person;
+import com.example.hello.person.Person;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.util.Assert;
-
-import java.util.List;
 
 @SpringBootTest
 class HelloApplicationTests {
